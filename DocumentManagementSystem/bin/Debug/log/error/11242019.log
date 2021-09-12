@@ -1,0 +1,316 @@
+﻿DateTime	Action
+11/24/2019 12:37:31:103 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 12:37:34:405 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 12:38:01:605 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 12:38:04:910 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 12:38:44:548 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 12:38:47:735 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 12:39:54:889 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 01:31:31:309 PM	No database selected
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 140
+
+DateTime	Action
+11/24/2019 01:42:22:764 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 01:42:26:542 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 138
+
+DateTime	Action
+11/24/2019 01:48:12:714 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 129
+
+DateTime	Action
+11/24/2019 01:48:16:044 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 129
+
+DateTime	Action
+11/24/2019 01:50:49:387 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 129
+
+DateTime	Action
+11/24/2019 01:50:52:555 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 129
+
+DateTime	Action
+11/24/2019 02:04:42:239 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''usere1'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+
+DateTime	Action
+11/24/2019 02:04:42:994 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''usere1'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+
+DateTime	Action
+11/24/2019 02:06:59:576 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''qweqwe'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+
+DateTime	Action
+11/24/2019 02:07:00:546 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''qweqwe'' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+
+DateTime	Action
+11/24/2019 02:07:54:937 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '''' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+
+DateTime	Action
+11/24/2019 07:30:36:517 PM	Object reference not set to an instance of an object.
+   at DocumentManagementSystem.CommonModel.GetCategory(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 175
+
+DateTime	Action
+11/24/2019 07:30:37:388 PM	Object reference not set to an instance of an object.
+   at DocumentManagementSystem.CommonModel.GetCategory(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 175
+
+DateTime	Action
+11/24/2019 07:30:37:988 PM	Object reference not set to an instance of an object.
+   at DocumentManagementSystem.CommonModel.GetCategory(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 175
+
+DateTime	Action
+11/24/2019 07:30:38:531 PM	Object reference not set to an instance of an object.
+   at DocumentManagementSystem.CommonModel.GetCategory(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 175
+
+DateTime	Action
+11/24/2019 09:28:15:527 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '9:28:13 PM' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+

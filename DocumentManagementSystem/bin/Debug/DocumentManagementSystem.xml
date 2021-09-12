@@ -1,0 +1,347 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DocumentManagementSystem
+</name>
+</assembly>
+<members>
+<member name="M:DocumentManagementSystem.Login.initialize">
+	<summary>
+ Reset form input fields
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DocumentManagementSystem.Login.CreateParams">
+	<summary>
+ Form Border Shadow
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:DocumentManagementSystem.Login">
+	<summary>
+ Login form
+ <para>Author: Neonito Perez Jr.</para>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.CommonModel.AutoSuggestTextBox(System.Windows.Forms.TextBox,System.String)">
+	<summary>
+ Populates sql info to a textbox and activate textbox auto suggest feature.
+ </summary>
+	<param name="txtbox"></param>
+	<param name="query"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.CommonModel.LoadTextBox(System.Windows.Forms.TextBox,System.String)">
+	<summary>
+ Populates sql info to a textbox component.
+ </summary>
+	<param name="txtbox"></param>
+	<param name="query"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.CommonModel.LoadCmb(System.Windows.Forms.ComboBox,System.String,System.Boolean)">
+	<summary>
+ Populates sql info to a combobox component.
+ </summary>
+	<param name="cmb"></param>
+	<param name="query"></param>
+	<param name="async"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.CommonModel.GetDBValue(System.String)">
+	<summary>
+ Retrieves a string value from database.
+ </summary>
+	<param name="query"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:DocumentManagementSystem.CommonModel">
+	<summary>
+		<para>Author: Neonito Perez Jr.</para>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.FileUpload.cls">
+	<summary>
+ Sets input fields to a default state.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.FileUpload.SaveFileInfo(System.String,System.String,System.String,System.String,System.String,System.DateTime,System.String,System.String)">
+	<summary>
+ Saves document information to database.
+ </summary>
+	<param name="dc_no">Document Name</param>
+	<param name="dc_name">Document Number</param>
+	<param name="dc_desc">Document Description</param>
+	<param name="dc_category">Document Category</param>
+	<param name="dc_keyword">Document Keyword</param>
+	<param name="dc_upload_date">Upload Date</param>
+	<param name="dc_upload_by">Upload By</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.FileUpload.SetFileTypeImage(System.Windows.Forms.PictureBox,System.String)">
+	<summary>
+ Automatically set image to a PictureBox component.
+ </summary>
+	<param name="picbox"></param>
+	<param name="fileExtension"></param>
+	<remarks></remarks>
+</member><member name="T:DocumentManagementSystem.FileUpload">
+	<summary>
+ Allows user to upload file using bulk multiple file upload or single file upload.
+ <para>Author: Neonito Perez Jr.</para>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Dashboard.Bgw1_DoWork(System.Object,System.ComponentModel.DoWorkEventArgs)">
+	<summary>
+ First load backgroundworker
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Dashboard.TreeView1_AfterSelect(System.Object,System.Windows.Forms.TreeViewEventArgs)">
+	<summary>
+ Tree node selection
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Dashboard.Bgw2_DoWork(System.Object,System.ComponentModel.DoWorkEventArgs)">
+	<summary>
+	</summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Dashboard.OpenDocumentDetail">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Dashboard.CloseDocumentDetail">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.FileManager.ReadAppConfig">
+	<summary>
+ Reads application settings.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:DocumentManagementSystem.FileManager">
+	<summary>
+ Manages file
+ <para>Author: Neonito Perez Jr.</para>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Logger.LogWrite(System.String,System.String)">
+	<summary>
+ Writes informative log
+ </summary>
+	<param name="message"></param>
+	<param name="path"></param>
+	<remarks></remarks>
+</member><member name="M:DocumentManagementSystem.Logger.SaveLog(System.DateTime,System.String,System.String)">
+	<summary>
+ Saves log to the database
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._ai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._avi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._css">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._dbf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._default">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._doc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._doc2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._exe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._html">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._iso">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._javascript">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._jpg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._json">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._mp4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._pdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._ppt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._psd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._rtf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._txt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._xls">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._xml">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources._zip">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.archive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.archiving_files">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.checklist">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.contract_review">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.dropfile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.file_delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.file_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.file_upload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.folder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.folder_vec">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.gavel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.graph">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.jpg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.meeting_reports">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.no_image_available">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.pdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.presentation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.rounded_close_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.share">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.star">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.team_coop_structure">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.upload_arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DocumentManagementSystem.My.Resources.Resources.wifi_connection_off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DocumentManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

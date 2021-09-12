@@ -1,0 +1,15 @@
+﻿DateTime	Action
+03/14/2020 09:54:25:822 PM	Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DocumentManagementSystem.CommonModel.GetDBValue(String query) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 128
+

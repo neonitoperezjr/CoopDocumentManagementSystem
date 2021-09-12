@@ -1,0 +1,8 @@
+﻿DateTime	Action
+01/11/2020 09:48:51:613 AM	String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 212
+

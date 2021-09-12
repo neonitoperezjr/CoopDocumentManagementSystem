@@ -1,0 +1,15 @@
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\bin\Release\DocumentManagementSystem.exe.config
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.PDFViewer.resources
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.FileUpload.resources
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.Login.resources
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.Dashboard.resources
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.NoConnection.resources
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.Resources.resources
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\bin\Release\DocumentManagementSystem.exe
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\bin\Release\DocumentManagementSystem.pdb
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\bin\Release\DocumentManagementSystem.xml
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.exe
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.xml
+C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\obj\x86\Release\DocumentManagementSystem.pdb

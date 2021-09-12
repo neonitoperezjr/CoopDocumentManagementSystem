@@ -1,0 +1,70 @@
+﻿DateTime	Action
+12/15/2019 03:25:58:131 PM	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 202
+
+DateTime	Action
+12/15/2019 03:28:37:806 PM	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 201
+
+DateTime	Action
+12/15/2019 03:33:50:804 PM	Cross-thread operation not valid: Control 'Dgv1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.DataGridView.FlushDisplayedChanged()
+   at System.Windows.Forms.DataGridView.PerformLayoutPrivate(Boolean useRowShortcut, Boolean computeVisibleRows, Boolean invalidInAdjustFillingColumns, Boolean repositionEditingControl)
+   at System.Windows.Forms.DataGridView.ResetUIState(Boolean useRowShortcut, Boolean computeVisibleRows)
+   at System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged_PreNotification(CollectionChangeAction cca, Int32 rowIndex, Int32 rowCount, DataGridViewRow& dataGridViewRow, Boolean changeIsInsertion)
+   at System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged(CollectionChangeEventArgs e, Int32 rowIndex, Int32 rowCount)
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridViewRowCollection.Add()
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 201
+
+DateTime	Action
+12/15/2019 03:35:15:741 PM	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(Int32 index)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 201
+
+DateTime	Action
+12/15/2019 03:38:11:449 PM	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(Int32 index)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 202
+
+DateTime	Action
+12/15/2019 03:38:49:894 PM	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 202
+
+DateTime	Action
+12/15/2019 03:40:18:635 PM	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 202
+
+DateTime	Action
+12/15/2019 03:40:56:243 PM	Cross-thread operation not valid: Control 'Dgv1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.DataGridView.FlushDisplayedChanged()
+   at System.Windows.Forms.DataGridView.PerformLayoutPrivate(Boolean useRowShortcut, Boolean computeVisibleRows, Boolean invalidInAdjustFillingColumns, Boolean repositionEditingControl)
+   at System.Windows.Forms.DataGridView.ResetUIState(Boolean useRowShortcut, Boolean computeVisibleRows)
+   at System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged_PreNotification(CollectionChangeAction cca, Int32 rowIndex, Int32 rowCount, DataGridViewRow& dataGridViewRow, Boolean changeIsInsertion)
+   at System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged(CollectionChangeEventArgs e, Int32 rowIndex, Int32 rowCount)
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridViewRowCollection.Add()
+   at DocumentManagementSystem.CommonModel.GetDocuments(DataGridView Dgv, String query, Boolean async) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Base\CommonModel.vb:line 201
+

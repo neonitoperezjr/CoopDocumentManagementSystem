@@ -1,0 +1,32 @@
+﻿DateTime	Action
+03/07/2020 07:35:01:272 PM	Connection must be valid and open.
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DocumentManagementSystem.Settings.BtnSave_Click(Object sender, EventArgs e) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Forms\Setting\Settings.vb:line 23
+
+DateTime	Action
+03/07/2020 07:35:04:258 PM	Connection must be valid and open.
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DocumentManagementSystem.Settings.BtnSave_Click(Object sender, EventArgs e) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Forms\Setting\Settings.vb:line 23
+
+DateTime	Action
+03/07/2020 08:07:23:845 PM	Table 'doccontroldb.t_setting' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DocumentManagementSystem.Settings.BtnSave_Click(Object sender, EventArgs e) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Forms\Setting\Settings.vb:line 24
+

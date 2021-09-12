@@ -1,0 +1,30 @@
+﻿DateTime	Action
+02/08/2020 08:27:57:053 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dc_category, dc_keyword, dc_upload_date, dc_upload_by) VALUES ('', '1.txt', '', ' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DocumentManagementSystem.FileUpload.SaveFileInfo(String dc_no, String dc_name, String dc_desc, String dc_category, String dc_keyword, DateTime dc_upload_date, String dc_upload_by) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Forms\FileUpload\FileUpload.vb:line 109
+
+DateTime	Action
+02/08/2020 08:31:46:278 PM	You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dc_category, dc_keyword, dc_upload_date, dc_upload_by) VALUES ('', '1.txt', '', ' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DocumentManagementSystem.FileUpload.SaveFileInfo(String dc_no, String dc_name, String dc_desc, String dc_category, String dc_keyword, DateTime dc_upload_date, String dc_upload_by) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Forms\FileUpload\FileUpload.vb:line 109
+
+DateTime	Action
+02/08/2020 08:36:26:058 PM	String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at DocumentManagementSystem.FileUpload.SaveFileInfo(String dc_no, String dc_name, String dc_desc, String dc_category, String dc_keyword, DateTime dc_upload_date, String dc_upload_by) in C:\Users\Mae Ann Ermac\Documents\Visual Studio 2010\Projects\DocumentManagementSystem\DocumentManagementSystem\Forms\FileUpload\FileUpload.vb:line 106
+
